@@ -1,5 +1,5 @@
 # Bike-Sharing-Demand-Prediction---ML-Regression
-<img width="213" alt="Screenshot 2024-02-08 112323" src="https://github.com/ratna-sri/Bike-Sharing-Demand-Prediction---ML-Regression/assets/104275945/da9954ec-19aa-44b8-95b6-e3df5c933473">
+<img width="400" alt="Screenshot 2024-02-08 112323" src="https://github.com/ratna-sri/Bike-Sharing-Demand-Prediction---ML-Regression/assets/104275945/da9954ec-19aa-44b8-95b6-e3df5c933473">
 
 
 The Seoul Bike Sharing Demand Prediction project is a great example of the typical process for a data science project. It involves five key stages: defining a problem, data processing, modeling, evaluation, and deployment.
